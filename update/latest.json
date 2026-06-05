@@ -3,9 +3,9 @@
   "version": 1,
   "versionCode": 5,
   "versionName": "0.5.3",
-  "apkUrl": "https://github.com/rinsan1120/ototsuna-update/releases/download/ototsuna_v0.5.2/ototsuna.v0.5.2.apk",
-  "apkSha256": "69a2871b4c2611874c1452f5102382d52e9b3d325f5602b2e55d9017bff6d879",
+  "apkUrl": "https://github.com/rinsan1120/ototsuna-update/releases/download/ototsuna_%EF%BD%960.5.3/ototsuna_v0.5.3.apk",
+  "apkSha256": "9ee730a906c13ec0f8241859105db9990c332bd7e0071c990adfe9a76f19cd0a",
   "releaseNotes": [
-    "自動更新確認用テストビルド"
+    "配布開始版"
   ]
 }
