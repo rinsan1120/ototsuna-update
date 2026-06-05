@@ -2,10 +2,11 @@
   "type": "ototsuna-update",
   "version": 1,
   "versionCode": 5,
-  "versionName": "0.5.3",
-  "apkUrl": "https://github.com/rinsan1120/ototsuna-update/releases/download/ototsuna_%EF%BD%960.5.3/ototsuna_v0.5.3.apk",
-  "apkSha256": "9ee730a906c13ec0f8241859105db9990c332bd7e0071c990adfe9a76f19cd0a",
+  "versionName": "0.5.5",
+  "apkUrl": "https://github.com/rinsan1120/ototsuna-update/releases/download/ototsuna_v0.5.5/ototsuna-v0.5.5.apk",
+  "apkSha256": "90a84c19ca50d268d74bffdb555b6acb9a639a1acfee2dfcf5403b7175d5954c",
   "releaseNotes": [
-    "配布開始版"
+    "ログ機能の追加",
+    "内部処理の効率化"
   ]
 }
