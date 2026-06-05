@@ -2,9 +2,9 @@
   "type": "ototsuna-update",
   "version": 1,
   "versionCode": 1,
-  "versionName": "0.5.0_testbuild",
-  "apkUrl": "https://github.com/rinsan1120/audio-bridge-android/releases/download/v0.5.0_testbuild/ototsuna-v0.5.0_testbuild.apk",
-  "apkSha256": "757C170EBE88707E9DF6C7AAE40B979B8E2364269329FA3B2684B11A866F2278",
+  "versionName": "0.5.2",
+  "apkUrl": "https://github.com/rinsan1120/ototsuna-update/releases/download/ototsuna_v0.5.2/ototsuna.v0.5.2.apk",
+  "apkSha256": "69a2871b4c2611874c1452f5102382d52e9b3d325f5602b2e55d9017bff6d879",
   "releaseNotes": [
     "自動更新確認用テストビルド"
   ]
