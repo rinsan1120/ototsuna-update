@@ -1,7 +1,7 @@
 {
     "type":  "ototsuna-update",
     "version":  1,
-    "versionCode":  10,
+    "versionCode":  20,
     "versionName":  "0.6.2",
     "apkUrl":  "https://github.com/rinsan1120/ototsuna-update/releases/download/ototsuna_v0.6.2/ototsuna-v0.6.2.apk",
     "apkSha256":  "332a4c886835a3545769f997febc8d3c6df223300d1d2a1ce130e77183506ecb",
