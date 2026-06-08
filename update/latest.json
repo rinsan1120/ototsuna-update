@@ -3,7 +3,7 @@
     "version":  1,
     "versionCode":  11,
     "versionName":  "0.6.3",
-    "apkUrl":  "https://github.com/rinsan1120/ototsuna-update/releases/download/ototsuna_v0.6.3/ototsuna-v0.6.3.apk",
+    "apkUrl":  "https://github.com/rinsan1120/ototsuna-update/releases/download/%E3%81%8A%E3%81%A8%E3%81%A4%E3%81%AA_v0.6.3/ototsuna-v0.6.3.apk", 
     "apkSha256":  "5ab90ac6a4744a4af920ce462f8d28787778fc83863b4883b3f4e4dedd83c70a",
     "releaseNotes":  [
                          "更新セクションの表示を改善"
