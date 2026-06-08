@@ -1,12 +1,11 @@
 {
   "type": "ototsuna-update",
   "version": 1,
-  "versionCode": 7,
-  "versionName": "0.5.6",
-  "apkUrl": "https://github.com/rinsan1120/ototsuna-update/releases/download/ototsuna_v0.6.0/ototsuna-v0.6.0.apk",
+  "versionCode": 9,
+  "versionName": "0.6.1",
+  "apkUrl": "https://github.com/rinsan1120/ototsuna-update/releases/download/ototsuna_v0.6.1/ototsuna-v0.6.1.apk",
   "apkSha256": "c45317254ee01f9b72e008bd46a88e216199e8ce807bea307966642a11a3f479",
   "releaseNotes": [
-    "複数端末の接続対応（同時出力は不可）",
-  　"ログ出力にデバッグモード追加"    
+    "アプリ更新機能のUI修正"
   ]
 }
