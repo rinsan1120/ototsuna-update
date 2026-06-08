@@ -1,11 +1,12 @@
 {
   "type": "ototsuna-update",
   "version": 1,
-  "versionCode": 9,
-  "versionName": "0.6.1",
-  "apkUrl": "https://github.com/rinsan1120/ototsuna-update/releases/download/ototsuna_v0.6.1/ototsuna-v0.6.1.apk",
-  "apkSha256": "34916fe3c23db962ace29415cf4fc2301f1984bf476d366423751399df9ad98a",
+  "versionCode": 10,
+  "versionName": "0.6.2",
+  "apkUrl": "https://github.com/rinsan1120/ototsuna-update/releases/download/v0.6.2/ototsuna-v0.6.2.apk",
+  "apkSha256": "a943c06ad38ff49ecf6874360479b811b51389d2bc8066a59912eee03ac7e14d",
   "releaseNotes": [
-    "アプリ更新機能のUI修正"
-  ]
+    "更新内容を記入してください。"
+  ],
+  "publishedAt": "2026-06-08T05:33:12.691700300Z"
 }
